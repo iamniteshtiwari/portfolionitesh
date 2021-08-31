@@ -3,7 +3,7 @@ my portfolio
 
 This is my portfolio
 This proejct is build using html and css to just showcase my proejct
-[live Heroku Deployment](https://portfolionitesh.herokuapp.com/)
+[live Heroku Deployment](https://nitesh--portfolio.herokuapp.com/)
 
 [Screenshot](![Portfolio](https://user-images.githubusercontent.com/89508196/131475237-15e6cdd7-bd20-4410-aaeb-aed26dbffa6d.png)
 
